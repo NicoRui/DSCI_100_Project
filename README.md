@@ -14,3 +14,6 @@ The Strange and Twisted World of Pulsars
 
 https://ethz.ch/content/dam/ethz/special-interest/phys/particle-physics/quanz-group-dam/documents-old-s-and-p/Courses/AstrophysikIHS2017/Notes_week_7b_V1.pdf
 Notes on Pulsars
+
+What is a Pulsar
+https://www.space.com/32661-pulsars.html
